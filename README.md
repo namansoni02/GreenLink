@@ -8,12 +8,12 @@ GreenLink leverages satellite-based AI to verify environmental projects like aff
 
 ## ✨ Core Features
 ```
-      ╔══════════════════════════════════════════════════════════════════════╗
-      ║ • AI-powered satellite imagery analysis to assess real climate impact║
-      ║ • Blockchain-based carbon credit issuance and tracking              ║
-      ║ • Transparent ESG dashboards for companies and investors            ║
-      ║ • Community rewards through impact tokens (coming soon)            ║
-      ╚══════════════════════════════════════════════════════════════════════╝
+                  ╔══════════════════════════════════════════════════════════════════════╗
+                  ║ • AI-powered satellite imagery analysis to assess real climate impact║
+                  ║ • Blockchain-based carbon credit issuance and tracking               ║
+                  ║ • Transparent ESG dashboards for companies and investors             ║
+                  ║ • Community rewards through impact tokens (coming soon)              ║
+                  ╚══════════════════════════════════════════════════════════════════════╝
 ```
 👨‍💻 Team
 <div align="center"> <table> <tr> <th>Member</th> <th>LinkedIn</th> </tr> <tr> <td>Naman Soni</td> <td><a href="https://www.linkedin.com/in/naman-soni-a46931290/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="24" height="24" alt="LinkedIn"> linkedin.com/in/naman-soni-a46931290 </a></td> </tr> <tr> <td>Prasangeet Dongre</td> <td><a href="https://www.linkedin.com/in/prasangeetdongre01/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="24" height="24" alt="LinkedIn"> linkedin.com/in/prasangeetdongre01 </a></td> </tr> <tr> <td>Atanu Kayal</td> <td><a href="https://www.linkedin.com/in/atanu-kayal-94433028b/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="24" height="24" alt="LinkedIn"> linkedin.com/in/atanu-kayal-94433028b </a></td> </tr> <tr> <td>Sandeep Soni</td> <td><a href="https://www.linkedin.com/in/sandeep-soni-56b58824b/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="24" height="24" alt="LinkedIn"> linkedin.com/in/sandeep-soni-56b58824b </a></td> </tr> <tr> <td>Prakhar Chauhan</td> <td><a href="https://www.linkedin.com/in/prakhar-chauhan-9a32b52b4/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="24" height="24" alt="LinkedIn"> linkedin.com/in/prakhar-chauhan-9a32b52b4 </a></td> </tr> </table> </div>
